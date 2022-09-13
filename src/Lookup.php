@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace Kiboko\Component\Flow\Cache;
+namespace Kiboko\Component\Flow\Cached;
 
 use Kiboko\Component\Bucket\ComplexResultBucket;
 use Kiboko\Contract\Pipeline\TransformerInterface;

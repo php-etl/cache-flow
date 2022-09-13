@@ -1,10 +1,10 @@
 {
-    "name": "php-etl/cache-flow",
+    "name": "php-etl/cached-flow",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Kiboko\\Component\\Flow\\Cache\\": "src/"
+            "Kiboko\\Component\\Flow\\Cached\\": "src/"
         }
     },
     "authors": [
